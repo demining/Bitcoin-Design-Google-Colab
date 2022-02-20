@@ -1,4 +1,14 @@
 # Bitcoin Design - Meta
+
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 `community`, `project-management`, `process`
 
 Activity in the Bitcoin Design community largely happens in the Slack workspace and here on Github, but also in the various projects our contributors are involved in.
