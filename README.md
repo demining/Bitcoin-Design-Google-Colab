@@ -63,3 +63,10 @@ There are two requirements for an issue to be included:
 - The issue needs to include a `UTCTime` meta property following this format: `UTCTime: 2020-10-14 9:00 UTC -7`. You can seen an example [here](https://github.com/BitcoinDesign/Meta/issues/27)
 - A maintainer needs to add the `call` label to the issue (this prevents spam)
 - The calendar auto-updates whenever a new issue is created, or an existing issue is edited
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
